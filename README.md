@@ -53,10 +53,4 @@
 * 🏆 **SOC SIEM & LOG Eğitimi** - Udemy[cite: 40, 41].
 * 🏆 **Yapay Zekaya İlk Adım** - Global AI Hub[cite: 42, 43].
 
----
 
-### 📊 GitHub İstatistikleri
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nrlhhlcn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrlhhlcn&layout=compact&theme=tokyonight" />
-</div>
