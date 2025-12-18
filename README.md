@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Nurullah+Hilcan;Siber+Güvenlik+Araştırmacısı;Blue+Team+Enthusiast" alt="Typing SVG" />
+  
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nrlhhlcn&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="nrlhhlcn" />
