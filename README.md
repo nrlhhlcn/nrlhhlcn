@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Nurullah%20Hilcan&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Nurullah+Hilcan;Siber+Güvenlik+Araştırmacısı;Blue+Team+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nrlhhlcn&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="nrlhhlcn" />
@@ -15,7 +15,7 @@
 ---
 
 ### 🛡️ Hakkımda
-İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kariyerimi **Siber Güvenlik Savunma (Blue Team)**, **Olay Müdahalesi (Incident Response)** ve **Ağ Güvenliği** alanlarında geliştirmeyi hedefliyorum. Yazılım geliştirme geçmişimi, güvenli kod analizi ve zafiyet tespiti süreçlerinde bir avantaj olarak kullanıyorum.
+[cite_start]İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim[cite: 6]. [cite_start]Kariyerimi **Siber Güvenlik Savunma (Blue Team)**, **Olay Müdahalesi (Incident Response)** ve **Ağ Güvenliği** alanlarında geliştirmeyi hedefliyorum[cite: 6]. [cite_start]Yazılım geliştirme geçmişimi, güvenli kod analizi ve zafiyet tespiti süreçlerinde bir avantaj olarak kullanıyorum[cite: 7].
 
 ---
 
@@ -27,31 +27,31 @@
 
 <br/>
 
-* **Siber Güvenlik:** Ağ Analizi (Wireshark, Nmap), SIEM & Log Yönetimi (Splunk).
-* **Web & Güvenlik:** OWASP Top 10 anlayışı ile React ve Next.js geliştirme.
-* **Deneyim:** SDLC süreçleri, kod güvenliği ve zafiyet tespiti.
+* [cite_start]**Siber Güvenlik:** Ağ Analizi (Wireshark, Nmap), SIEM & Log Yönetimi (Splunk)[cite: 10].
+* [cite_start]**Web & Güvenlik:** OWASP Top 10 anlayışı ile React ve Next.js geliştirme[cite: 12].
+* [cite_start]**Deneyim:** SDLC süreçleri, kod güvenliği ve zafiyet tespiti[cite: 15, 16, 17].
 
 ---
 
 ### 🚀 Öne Çıkan Projeler
 
 #### 🛡️ [Shield - Siber Güvenlik Eğitim Platformu](https://github.com/nrlhhlcn/Shield)
-* **Tehdit İstihbaratı (CTI):** 15+ global kaynaktan zafiyet ve saldırı verilerini toplayan merkezi panel.
-* **Güvenlik Araçları:** IP İtibar Sorgulama, Hash Doğrulama ve Şifre Entropi Analizi araçları.
-* **Teknolojiler:** React, TypeScript, Firebase, REST API.
+* [cite_start]**Tehdit İstihbaratı (CTI):** 15+ global kaynaktan zafiyet ve saldırı verilerini toplayan merkezi panel[cite: 21].
+* [cite_start]**Güvenlik Araçları:** IP İtibar Sorgulama, Hash Doğrulama ve Şifre Entropi Analizi araçları[cite: 22].
+* [cite_start]**Teknolojiler:** React, TypeScript, Firebase, REST API[cite: 24].
 
 #### 🚗 [Carivio - AI Destekli Kariyer Platformu](https://github.com/nrlhhlcn/Carivio)
-* **Yapay Zeka:** CV analizi ve mülakat simülasyonları için NLP entegrasyonu.
-* **Veri Gizliliği:** KVKK uyumlu kişisel doküman işleme ve saklanma süreçleri.
-* **Teknolojiler:** Next.js 14, Tailwind CSS, AI API Entegrasyonu.
+* [cite_start]**Yapay Zeka:** CV analizi ve mülakat simülasyonları için NLP entegrasyonu[cite: 27].
+* [cite_start]**Veri Gizliliği:** KVKK uyumlu kişisel doküman işleme ve saklanma süreçleri[cite: 28].
+* [cite_start]**Teknolojiler:** Next.js 14, Tailwind CSS, AI API Entegrasyonu[cite: 30].
 
 ---
 
 ### 🎓 Eğitim & Sertifikalar
-* 🎓 **Bilgisayar Mühendisliği (Lisans)** - İzmir Bakırçay Üniversitesi (2022-2026).
-* 🏆 **Pre Security** - TryHackMe.
-* 🏆 **SOC SIEM & LOG Eğitimi** - Udemy.
-* 🏆 **Yapay Zekaya İlk Adım** - Global AI Hub.
+* [cite_start]🎓 **Bilgisayar Mühendisliği (Lisans)** - İzmir Bakırçay Üniversitesi (2022-2026)[cite: 32, 33, 38].
+* [cite_start]🏆 **Pre Security** - TryHackMe[cite: 39, 41].
+* [cite_start]🏆 **SOC SIEM & LOG Eğitimi** - Udemy[cite: 40, 41].
+* [cite_start]🏆 **Yapay Zekaya İlk Adım** - Global AI Hub[cite: 42, 43].
 
 ---
 
@@ -59,8 +59,4 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nrlhhlcn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrlhhlcn&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrlhhlcn&theme=tokyonight&hide_border=true" />
 </div>
