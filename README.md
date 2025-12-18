@@ -15,7 +15,7 @@
 ---
 
 ### 🛡️ Hakkımda
-[cite_start]İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim[cite: 6]. [cite_start]Kariyerimi **Siber Güvenlik Savunma (Blue Team)**, **Olay Müdahalesi (Incident Response)** ve **Ağ Güvenliği** alanlarında geliştirmeyi hedefliyorum[cite: 6]. [cite_start]Yazılım geliştirme geçmişimi, güvenli kod analizi ve zafiyet tespiti süreçlerinde bir avantaj olarak kullanıyorum[cite: 7].
+İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim[cite: 6]. [cite_start]Kariyerimi **Siber Güvenlik Savunma (Blue Team)**, **Olay Müdahalesi (Incident Response)** ve **Ağ Güvenliği** alanlarında geliştirmeyi hedefliyorum[cite: 6]. [cite_start]Yazılım geliştirme geçmişimi, güvenli kod analizi ve zafiyet tespiti süreçlerinde bir avantaj olarak kullanıyorum[cite: 7].
 
 ---
 
@@ -27,31 +27,31 @@
 
 <br/>
 
-* [cite_start]**Siber Güvenlik:** Ağ Analizi (Wireshark, Nmap), SIEM & Log Yönetimi (Splunk)[cite: 10].
-* [cite_start]**Web & Güvenlik:** OWASP Top 10 anlayışı ile React ve Next.js geliştirme[cite: 12].
-* [cite_start]**Deneyim:** SDLC süreçleri, kod güvenliği ve zafiyet tespiti[cite: 15, 16, 17].
+* **Siber Güvenlik:** Ağ Analizi (Wireshark, Nmap), SIEM & Log Yönetimi (Splunk)[cite: 10].
+* **Web & Güvenlik:** OWASP Top 10 anlayışı ile React ve Next.js geliştirme[cite: 12].
+* **Deneyim:** SDLC süreçleri, kod güvenliği ve zafiyet tespiti[cite: 15, 16, 17].
 
 ---
 
 ### 🚀 Öne Çıkan Projeler
 
 #### 🛡️ [Shield - Siber Güvenlik Eğitim Platformu](https://github.com/nrlhhlcn/Shield)
-* [cite_start]**Tehdit İstihbaratı (CTI):** 15+ global kaynaktan zafiyet ve saldırı verilerini toplayan merkezi panel[cite: 21].
-* [cite_start]**Güvenlik Araçları:** IP İtibar Sorgulama, Hash Doğrulama ve Şifre Entropi Analizi araçları[cite: 22].
-* [cite_start]**Teknolojiler:** React, TypeScript, Firebase, REST API[cite: 24].
+* **Tehdit İstihbaratı (CTI):** 15+ global kaynaktan zafiyet ve saldırı verilerini toplayan merkezi panel[cite: 21].
+* **Güvenlik Araçları:** IP İtibar Sorgulama, Hash Doğrulama ve Şifre Entropi Analizi araçları[cite: 22].
+* **Teknolojiler:** React, TypeScript, Firebase, REST API[cite: 24].
 
 #### 🚗 [Carivio - AI Destekli Kariyer Platformu](https://github.com/nrlhhlcn/Carivio)
-* [cite_start]**Yapay Zeka:** CV analizi ve mülakat simülasyonları için NLP entegrasyonu[cite: 27].
-* [cite_start]**Veri Gizliliği:** KVKK uyumlu kişisel doküman işleme ve saklanma süreçleri[cite: 28].
-* [cite_start]**Teknolojiler:** Next.js 14, Tailwind CSS, AI API Entegrasyonu[cite: 30].
+* **Yapay Zeka:** CV analizi ve mülakat simülasyonları için NLP entegrasyonu[cite: 27].
+* **Veri Gizliliği:** KVKK uyumlu kişisel doküman işleme ve saklanma süreçleri[cite: 28].
+* **Teknolojiler:** Next.js 14, Tailwind CSS, AI API Entegrasyonu[cite: 30].
 
 ---
 
 ### 🎓 Eğitim & Sertifikalar
-* [cite_start]🎓 **Bilgisayar Mühendisliği (Lisans)** - İzmir Bakırçay Üniversitesi (2022-2026)[cite: 32, 33, 38].
-* [cite_start]🏆 **Pre Security** - TryHackMe[cite: 39, 41].
-* [cite_start]🏆 **SOC SIEM & LOG Eğitimi** - Udemy[cite: 40, 41].
-* [cite_start]🏆 **Yapay Zekaya İlk Adım** - Global AI Hub[cite: 42, 43].
+* 🎓 **Bilgisayar Mühendisliği (Lisans)** - İzmir Bakırçay Üniversitesi (2022-2026)[cite: 32, 33, 38].
+* 🏆 **Pre Security** - TryHackMe[cite: 39, 41].
+* 🏆 **SOC SIEM & LOG Eğitimi** - Udemy[cite: 40, 41].
+* 🏆 **Yapay Zekaya İlk Adım** - Global AI Hub[cite: 42, 43].
 
 ---
 
