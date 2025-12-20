@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=nrlhhlcn&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="nrlhhlcn" />
   </p>
 
-  <h3>🚀 Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik Araştırmacısı (Blue Team)</h3>
+  <h3>🚀 Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik  (Blue Team)</h3>
 
   <a href="https://linkedin.com/in/nurullah-hilcan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://nurullahhilcan.com"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
